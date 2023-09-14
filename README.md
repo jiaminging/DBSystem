@@ -11,7 +11,8 @@
 >#### 系級:科技系三年級  
 # 課程筆記區 (***Notes***)
 * ### ***Week2***
-
+  * ### Learning Materials
+[ERD Examples](https://gitmind.com/erd-examples.html)
 * ### ***Week3***
   * ### Learning Materials
    
