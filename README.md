@@ -1,6 +1,6 @@
 # 112-1 師大科技系 資料庫系統 (***Database Systems***)
 # 目錄(***Table for contents***)
- 1. [***Bio***]
+ 1. [***Bio***](https://github.com/jiaminging/DBSystem/tree/main#bio)
  2. [課程筆記區(***Notes***)]
  3. [作業連結區(***Assignments***)]
  4. [專題連結區(***Projects***)]
