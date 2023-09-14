@@ -1,4 +1,3 @@
-# README
 # 112-1 師大科技系 資料庫系統 (***Database Systems***)
 # 目錄(***Table for contents***)
  1. [***Bio***]
