@@ -27,6 +27,6 @@
 ---
 # ***Assignments***
 * ### HW1-Create your Own DataBase
-![image]()
+![image](https://github.com/jiaminging/DBSystem/blob/main/DataSystem_HW1.drawio)
 ---
 # ***Projects***
