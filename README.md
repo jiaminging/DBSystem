@@ -26,6 +26,7 @@
 * ### ***Week7***
 ---
 # ***Assignments***
-* ### ***HW1-Create your Own DataBase***
+* ### HW1-Create your Own DataBase
+  
 ---
 # ***Projects***
