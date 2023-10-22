@@ -26,7 +26,7 @@
 * ### ***Week7***
 ---
 # ***Assignments***
-* ### [HW1-Create your Own DataBase](https://youtu.be/R4oO0bxyeV4)
+* ## HW1-Create your Own DataBase [HW1_video](https://youtu.be/R4oO0bxyeV4)
 ![image](https://github.com/jiaminging/DBSystem/blob/main/HW1.jpg)
 ---
 # ***Projects***
