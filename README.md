@@ -29,6 +29,6 @@
 * ## HW1-Create your Own DataBase [HW1_video](https://youtu.be/R4oO0bxyeV4)
 ![image](https://github.com/jiaminging/DBSystem/blob/main/HW1.jpg)
 * ## HW2 [HW2_video](https://youtu.be/6jW3-aktdtE)
-* ## HW2 [HW3_video](https://youtu.be/HoF9uy250rw)
+* ## HW3 [HW3_video](https://youtu.be/HoF9uy250rw)
 ---
 # ***Projects***
